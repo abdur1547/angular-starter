@@ -155,6 +155,10 @@
     }
   },
   "cli": {
-    "schematicCollections": ["@cypress/schematic", "@schematics/angular"]
+    "schematicCollections": [
+      "@cypress/schematic",
+      "@schematics/angular"
+    ],
+    "analytics": "160e0195-c1ca-4f35-aeb8-873841321a4d"
   }
 }
