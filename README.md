@@ -1,3 +1,5 @@
+**A huge shoutout to [Wilfried](https://github.com/wlucha)**. It is a fork form repo [angular-starter](https://github.com/wlucha/angular-starter). All my changes are in `develop` branch and I am keeping `master` branch for syncing changes with parent repo.
+
 ![81993396-d5142b00-9645-11ea-995f-98342b7d5c8f](https://user-images.githubusercontent.com/7531596/128626297-df86020b-1cdc-43b5-a692-6c4c45534ec1.png)
 
 > The Angular starter / boilerplate project to start a new enterprise project.
